@@ -1,0 +1,201 @@
+﻿monto_credito,tasa_interes_anual,cuotas_atrasadas,tipo_cliente,riesgo_crediticio
+20000971.0,16.92,1,Independiente,Medio
+25207807.0,26.02,2,Microempresario,Alto
+20673040.0,19.21,3,Microempresario,Muy alto
+10658290.0,19.37,2,Independiente,Medio
+44672921.0,22.0,0,Microempresario,Bajo
+19561847.0,20.11,1,Empleado,Bajo
+19627661.0,16.4,3,Independiente,Medio
+9805178.0,18.69,0,Empleado,Bajo
+15253455.0,27.95,3,Microempresario,Muy alto
+11294608.0,29.18,4,Empleado,Muy alto
+17399811.0,10.86,1,Independiente,Bajo
+13604601.0,24.96,1,Microempresario,Alto
+14198237.0,24.34,0,Pensionado,Medio
+14422400.0,18.76,3,Microempresario,Alto
+33988938.0,15.11,4,Empleado,Muy alto
+12916461.0,23.33,1,Pensionado,Medio
+17998790.0,12.93,1,Empleado,Muy bajo
+19342328.0,18.39,1,Microempresario,Medio
+16378352.0,22.02,2,Independiente,Alto
+25450804.0,19.7,1,Microempresario,Medio
+32759544.0,21.47,2,Independiente,Muy alto
+33780164.0,12.57,2,Microempresario,Medio
+7822618.0,16.36,1,Pensionado,Bajo
+17450873.0,13.71,1,Empleado,Bajo
+27865583.0,21.63,3,Microempresario,Muy alto
+52381851.0,20.91,1,Microempresario,Alto
+10684055.0,14.61,2,Empleado,Alto
+8745533.0,14.7,2,Independiente,Alto
+32198096.0,17.87,1,Microempresario,Bajo
+27044831.0,17.81,1,Pensionado,Muy bajo
+21198468.0,26.95,5,Independiente,Muy alto
+13816775.0,15.22,0,Microempresario,Muy bajo
+24913838.0,13.88,1,Pensionado,Muy bajo
+16894699.0,21.65,2,Pensionado,Muy alto
+7596358.0,21.09,2,Independiente,Alto
+19769688.0,16.45,1,Empleado,Bajo
+13925250.0,19.38,3,Empleado,Medio
+44924151.0,22.52,2,Independiente,Medio
+9178686.0,23.96,1,Empleado,Bajo
+44650997.0,19.6,0,Empleado,Muy bajo
+29348996.0,23.46,0,Microempresario,Bajo
+38990660.0,13.18,2,Independiente,Alto
+19418631.0,21.29,3,Empleado,Alto
+23766365.0,20.22,2,Empleado,Alto
+17985882.0,19.88,0,Empleado,Bajo
+16291145.0,21.75,1,Independiente,Bajo
+27804386.0,19.31,1,Empleado,Medio
+14755737.0,21.65,2,Empleado,Medio
+46391075.0,18.47,0,Microempresario,Muy bajo
+23149853.0,17.31,2,Microempresario,Medio
+8047245.0,17.98,0,Empleado,Bajo
+19478394.0,22.67,1,Independiente,Medio
+11976710.0,18.58,2,Microempresario,Alto
+37973662.0,17.92,0,Microempresario,Medio
+13552645.0,21.13,0,Microempresario,Bajo
+8295870.0,20.38,1,Empleado,Medio
+28199961.0,19.0,0,Microempresario,Muy bajo
+14164490.0,20.22,0,Empleado,Muy bajo
+37252392.0,17.28,0,Empleado,Bajo
+26683355.0,26.43,2,Microempresario,Muy alto
+19351274.0,17.43,2,Microempresario,Alto
+51177155.0,15.31,2,Pensionado,Medio
+9553035.0,24.26,0,Empleado,Medio
+36657806.0,18.8,3,Independiente,Alto
+8058018.0,15.89,1,Empleado,Muy bajo
+29308332.0,14.49,0,Empleado,Muy bajo
+10862025.0,14.86,1,Independiente,Bajo
+26512076.0,22.24,2,Microempresario,Muy alto
+23236612.0,15.48,1,Empleado,Bajo
+19468048.0,17.81,1,Empleado,Medio
+22244363.0,26.72,3,Empleado,Muy alto
+22856599.0,21.5,2,Empleado,Alto
+7747813.0,17.26,0,Empleado,Muy bajo
+13622577.0,13.34,2,Pensionado,Medio
+29297482.0,16.68,1,Empleado,Bajo
+77709426.0,12.85,0,Pensionado,Bajo
+24348258.0,17.34,0,Pensionado,Bajo
+19316497.0,21.14,3,Microempresario,Muy alto
+35494311.0,10.53,1,Empleado,Muy bajo
+8592253.0,23.62,0,Empleado,Bajo
+9305524.0,21.6,0,Microempresario,Muy bajo
+23494790.0,19.94,3,Microempresario,Muy alto
+21344579.0,16.31,3,Empleado,Alto
+27746144.0,15.31,1,Pensionado,Medio
+33672291.0,14.38,1,Empleado,Bajo
+15247662.0,20.05,2,Microempresario,Medio
+33538048.0,19.83,1,Independiente,Bajo
+28970521.0,25.1,1,Independiente,Medio
+45853459.0,17.68,0,Empleado,Muy bajo
+12289184.0,19.36,0,Microempresario,Bajo
+4520835.0,14.85,1,Empleado,Bajo
+7664660.0,17.71,0,Empleado,Bajo
+25263852.0,19.64,1,Empleado,Bajo
+44716946.0,20.35,0,Microempresario,Bajo
+14223380.0,13.57,1,Microempresario,Muy bajo
+13066338.0,12.73,1,Empleado,Bajo
+12940733.0,26.88,3,Independiente,Muy alto
+11207427.0,18.03,0,Empleado,Muy bajo
+11513963.0,27.58,2,Independiente,Alto
+8782365.0,22.11,3,Pensionado,Muy alto
+11052591.0,20.12,0,Empleado,Bajo
+18732476.0,17.19,0,Pensionado,Muy bajo
+16946831.0,13.13,1,Independiente,Bajo
+17035987.0,17.65,0,Empleado,Bajo
+12370933.0,20.06,3,Independiente,Alto
+17019201.0,24.33,2,Independiente,Alto
+7268248.0,21.23,1,Empleado,Alto
+20411739.0,11.98,2,Independiente,Bajo
+23539609.0,22.21,3,Microempresario,Alto
+7021215.0,24.2,1,Empleado,Medio
+16544460.0,25.21,1,Microempresario,Medio
+16909520.0,24.97,1,Pensionado,Medio
+9423963.0,17.82,3,Empleado,Alto
+15698139.0,22.76,1,Empleado,Medio
+42410142.0,20.99,2,Empleado,Alto
+10919628.0,24.77,2,Independiente,Alto
+10695177.0,27.61,1,Microempresario,Alto
+21261773.0,30.95,3,Microempresario,Muy alto
+22361243.0,19.15,3,Microempresario,Alto
+52390240.0,24.09,2,Independiente,Alto
+22152571.0,15.46,1,Microempresario,Medio
+12082857.0,22.71,4,Independiente,Muy alto
+25229788.0,23.87,0,Empleado,Muy bajo
+17517273.0,26.59,1,Independiente,Alto
+6948986.0,23.71,0,Microempresario,Bajo
+12105276.0,21.1,2,Empleado,Alto
+22461369.0,16.87,0,Empleado,Muy bajo
+21864606.0,19.22,0,Empleado,Muy bajo
+10308477.0,19.45,1,Microempresario,Alto
+8450918.0,26.09,1,Independiente,Medio
+12899145.0,19.2,0,Microempresario,Muy bajo
+17901387.0,19.07,2,Independiente,Medio
+19484744.0,21.72,3,Independiente,Muy alto
+11598890.0,21.92,2,Pensionado,Alto
+16057617.0,16.77,0,Microempresario,Muy bajo
+14509661.0,19.72,0,Empleado,Muy bajo
+14836260.0,22.44,0,Microempresario,Medio
+18434900.0,17.53,0,Pensionado,Medio
+33142318.0,23.8,2,Empleado,Medio
+26692795.0,16.21,1,Empleado,Bajo
+9786945.0,25.87,1,Microempresario,Medio
+27525209.0,16.85,1,Independiente,Medio
+11752195.0,12.14,2,Independiente,Muy bajo
+33350812.0,19.41,1,Empleado,Medio
+18512207.0,22.96,2,Empleado,Alto
+5073844.0,19.48,2,Pensionado,Muy alto
+9924970.0,15.89,1,Empleado,Bajo
+31702638.0,21.76,2,Empleado,Medio
+24857002.0,21.22,0,Empleado,Muy bajo
+20969419.0,15.21,3,Microempresario,Muy alto
+11140539.0,13.44,0,Microempresario,Muy bajo
+12562972.0,15.39,2,Independiente,Medio
+12700135.0,18.26,1,Pensionado,Medio
+57202382.0,18.17,0,Empleado,Bajo
+4083984.0,17.94,2,Microempresario,Medio
+10305018.0,23.79,3,Microempresario,Muy alto
+42556871.0,14.24,2,Independiente,Bajo
+9731456.0,25.04,4,Independiente,Muy alto
+16383943.0,8.0,2,Pensionado,Muy bajo
+11592996.0,22.83,3,Empleado,Muy alto
+25431463.0,19.25,0,Pensionado,Muy bajo
+14424101.0,13.57,0,Empleado,Muy bajo
+8689844.0,28.17,2,Microempresario,Muy alto
+15732292.0,23.02,1,Independiente,Medio
+22860996.0,14.11,2,Empleado,Alto
+66364742.0,26.73,2,Microempresario,Muy alto
+29644954.0,27.67,4,Microempresario,Muy alto
+16291832.0,26.76,1,Independiente,Alto
+30528048.0,16.84,0,Microempresario,Bajo
+20646922.0,18.31,0,Microempresario,Bajo
+17112004.0,22.97,3,Independiente,Muy alto
+20841752.0,24.07,2,Independiente,Medio
+12975620.0,20.23,1,Empleado,Bajo
+14391126.0,25.16,3,Independiente,Muy alto
+6351628.0,16.68,1,Empleado,Medio
+15788956.0,22.0,2,Empleado,Alto
+21631241.0,19.81,1,Pensionado,Medio
+34672084.0,19.22,2,Independiente,Medio
+57713838.0,11.78,0,Empleado,Muy bajo
+14938042.0,18.94,2,Independiente,Medio
+16673905.0,14.66,2,Empleado,Bajo
+39426899.0,17.09,1,Independiente,Bajo
+47493141.0,26.5,2,Empleado,Muy alto
+5733197.0,16.48,0,Microempresario,Muy bajo
+8760279.0,21.07,2,Independiente,Alto
+6914730.0,12.76,1,Pensionado,Medio
+20297542.0,18.22,3,Empleado,Muy alto
+23079747.0,16.51,0,Empleado,Bajo
+25904916.0,27.67,0,Empleado,Medio
+19645852.0,19.83,3,Empleado,Muy alto
+12787400.0,22.98,2,Empleado,Alto
+8946913.0,22.42,3,Independiente,Alto
+22574559.0,27.94,0,Empleado,Medio
+19899732.0,19.35,0,Microempresario,Muy bajo
+14245429.0,15.29,0,Empleado,Muy bajo
+16084736.0,19.74,0,Empleado,Bajo
+20347706.0,21.27,2,Empleado,Alto
+28415952.0,27.81,0,Microempresario,Medio
+35474951.0,19.25,1,Empleado,Muy bajo
+3436731.0,22.14,1,Microempresario,Bajo

@@ -1,0 +1,201 @@
+﻿ingreso_por_habitacion,tarifa_promedio,numero_reservas,tipo_cliente,nivel_ocupacion
+228086.0,256220.0,59,Turista nacional,Muy alta
+204742.0,361517.0,41,Turista nacional,Media
+279003.0,433987.0,34,Turista internacional,Baja
+175624.0,266751.0,37,Turista internacional,Media
+379471.0,431122.0,52,Turista internacional,Muy alta
+360864.0,444243.0,27,Corporativo,Baja
+427159.0,501069.0,42,Turista internacional,Alta
+276068.0,375752.0,41,Corporativo,Media
+273975.0,387822.0,53,Turista internacional,Media
+268905.0,321671.0,42,Turista nacional,Alta
+265529.0,385436.0,40,Turista nacional,Media
+217474.0,363971.0,42,Turista nacional,Media
+154786.0,165970.0,39,Grupo,Baja
+241036.0,341716.0,41,Turista nacional,Baja
+292411.0,409750.0,49,Corporativo,Alta
+223993.0,364615.0,41,Corporativo,Media
+252917.0,338108.0,42,Turista nacional,Media
+324599.0,343129.0,35,Corporativo,Baja
+302119.0,320941.0,40,Corporativo,Alta
+329589.0,419082.0,44,Turista internacional,Baja
+356386.0,552702.0,42,Turista internacional,Media
+523700.0,575865.0,41,Turista internacional,Media
+212003.0,379219.0,25,Turista internacional,Muy baja
+225071.0,313348.0,38,Turista nacional,Baja
+244235.0,307688.0,38,Turista nacional,Baja
+277434.0,397227.0,38,Corporativo,Media
+313323.0,437828.0,54,Turista internacional,Alta
+263860.0,394614.0,45,Turista internacional,Alta
+226698.0,257937.0,44,Turista internacional,Media
+192528.0,291622.0,40,Turista internacional,Baja
+350043.0,379801.0,44,Corporativo,Media
+135913.0,156368.0,39,Turista nacional,Baja
+299064.0,356635.0,55,Corporativo,Alta
+336261.0,424270.0,33,Turista internacional,Baja
+251350.0,410523.0,51,Turista internacional,Alta
+183944.0,290599.0,34,Turista nacional,Baja
+194059.0,302184.0,31,Turista nacional,Alta
+262383.0,358752.0,36,Corporativo,Media
+165006.0,230611.0,31,Grupo,Media
+167305.0,279245.0,36,Corporativo,Media
+183741.0,322481.0,48,Turista internacional,Alta
+156889.0,219527.0,33,Corporativo,Muy baja
+290597.0,358959.0,44,Corporativo,Media
+159721.0,285528.0,51,Turista nacional,Alta
+209820.0,334486.0,34,Grupo,Baja
+350807.0,387564.0,40,Turista nacional,Alta
+297760.0,496897.0,39,Turista nacional,Media
+350798.0,374200.0,29,Grupo,Baja
+307802.0,429884.0,41,Turista internacional,Media
+236411.0,371419.0,53,Turista internacional,Media
+269638.0,339689.0,42,Corporativo,Media
+187848.0,324989.0,47,Turista internacional,Muy alta
+237275.0,301966.0,46,Turista nacional,Alta
+168594.0,275415.0,49,Turista nacional,Media
+288805.0,379308.0,43,Corporativo,Media
+283314.0,304910.0,33,Corporativo,Media
+298827.0,420475.0,32,Corporativo,Baja
+225258.0,271001.0,45,Turista nacional,Media
+158032.0,201341.0,48,Grupo,Alta
+179714.0,321790.0,41,Turista internacional,Media
+164812.0,296894.0,51,Turista nacional,Alta
+272447.0,317661.0,35,Turista nacional,Media
+227808.0,333376.0,45,Turista internacional,Baja
+113960.0,201366.0,48,Turista nacional,Alta
+204961.0,342841.0,46,Turista nacional,Baja
+358832.0,384196.0,45,Corporativo,Media
+233296.0,340579.0,45,Turista nacional,Media
+403461.0,503938.0,30,Turista nacional,Baja
+180199.0,240235.0,52,Corporativo,Alta
+213674.0,334135.0,46,Turista nacional,Muy alta
+308819.0,349815.0,38,Turista internacional,Baja
+225899.0,267397.0,44,Turista nacional,Alta
+185953.0,270540.0,35,Turista nacional,Media
+175488.0,304566.0,45,Turista nacional,Alta
+307746.0,356470.0,36,Grupo,Media
+266760.0,329841.0,44,Corporativo,Media
+252375.0,302005.0,41,Turista internacional,Alta
+291021.0,370099.0,49,Turista internacional,Alta
+222123.0,285660.0,51,Turista nacional,Muy alta
+427811.0,468595.0,43,Turista internacional,Media
+282045.0,338141.0,43,Turista nacional,Baja
+231874.0,244091.0,48,Turista nacional,Alta
+238208.0,354191.0,56,Turista nacional,Muy alta
+343642.0,430341.0,32,Corporativo,Baja
+302938.0,326847.0,44,Corporativo,Media
+326489.0,406822.0,44,Turista nacional,Media
+147622.0,183476.0,43,Grupo,Media
+271199.0,288086.0,41,Turista internacional,Media
+248084.0,280550.0,47,Grupo,Baja
+330176.0,390994.0,49,Turista internacional,Alta
+244192.0,274398.0,45,Turista nacional,Media
+312371.0,346429.0,42,Turista nacional,Media
+209580.0,305625.0,47,Turista internacional,Alta
+296084.0,387745.0,51,Corporativo,Alta
+175600.0,278106.0,42,Turista nacional,Alta
+264128.0,335330.0,42,Corporativo,Baja
+173565.0,256335.0,41,Turista nacional,Alta
+265783.0,329208.0,49,Turista nacional,Media
+284691.0,346105.0,43,Grupo,Baja
+217042.0,343311.0,51,Turista internacional,Alta
+169147.0,206939.0,33,Turista nacional,Baja
+144448.0,213498.0,38,Turista nacional,Media
+248701.0,305164.0,38,Turista nacional,Baja
+230091.0,269498.0,39,Turista internacional,Media
+228061.0,283432.0,42,Turista nacional,Baja
+212291.0,253524.0,50,Corporativo,Muy alta
+198975.0,345459.0,37,Corporativo,Media
+205317.0,341968.0,35,Grupo,Baja
+280985.0,303107.0,42,Turista internacional,Alta
+325580.0,396419.0,48,Turista nacional,Media
+172111.0,267995.0,49,Turista nacional,Muy alta
+309500.0,396354.0,50,Corporativo,Alta
+199751.0,301077.0,38,Corporativo,Media
+286742.0,454104.0,36,Turista nacional,Media
+258848.0,311381.0,37,Turista nacional,Baja
+258363.0,427618.0,31,Corporativo,Media
+220900.0,294091.0,43,Grupo,Baja
+235404.0,335453.0,40,Turista nacional,Media
+217504.0,255242.0,41,Turista nacional,Media
+319081.0,372006.0,41,Turista internacional,Media
+205258.0,255899.0,37,Turista nacional,Baja
+228813.0,347529.0,38,Grupo,Media
+230188.0,284083.0,38,Turista nacional,Baja
+123975.0,138429.0,45,Turista nacional,Media
+311929.0,352911.0,59,Turista nacional,Alta
+154898.0,280121.0,41,Corporativo,Media
+378726.0,401318.0,33,Turista internacional,Media
+278334.0,387325.0,44,Grupo,Alta
+129531.0,168646.0,39,Turista nacional,Alta
+265854.0,375472.0,45,Corporativo,Baja
+312849.0,378471.0,38,Turista internacional,Media
+238247.0,294679.0,42,Turista nacional,Alta
+282675.0,401470.0,36,Turista nacional,Muy baja
+220513.0,330172.0,31,Grupo,Baja
+365466.0,414456.0,49,Turista nacional,Alta
+152548.0,246221.0,50,Grupo,Alta
+246016.0,369080.0,30,Corporativo,Media
+199635.0,245956.0,48,Turista nacional,Alta
+170565.0,242622.0,41,Turista internacional,Media
+221726.0,394638.0,39,Turista nacional,Media
+166150.0,287643.0,26,Corporativo,Baja
+272750.0,356635.0,33,Turista nacional,Media
+205133.0,342911.0,30,Corporativo,Baja
+246123.0,292712.0,39,Corporativo,Media
+258935.0,307085.0,38,Turista nacional,Media
+172069.0,308550.0,40,Corporativo,Media
+321233.0,456880.0,51,Turista internacional,Alta
+179969.0,237227.0,38,Turista nacional,Media
+328561.0,376756.0,50,Corporativo,Alta
+256770.0,341365.0,42,Turista internacional,Media
+222287.0,281832.0,42,Grupo,Baja
+239077.0,265081.0,43,Turista nacional,Media
+246482.0,372683.0,36,Corporativo,Media
+294544.0,316076.0,41,Turista nacional,Media
+160035.0,219575.0,51,Turista nacional,Media
+295265.0,322929.0,35,Turista nacional,Baja
+316437.0,454547.0,36,Turista nacional,Baja
+241517.0,363547.0,37,Turista nacional,Media
+177674.0,277768.0,47,Grupo,Media
+156437.0,241181.0,49,Corporativo,Muy alta
+304603.0,366520.0,38,Turista internacional,Muy baja
+145499.0,254184.0,56,Turista nacional,Alta
+237349.0,288185.0,39,Corporativo,Baja
+300223.0,382173.0,46,Turista nacional,Alta
+273844.0,316766.0,31,Turista internacional,Muy baja
+403057.0,454069.0,36,Turista nacional,Media
+281767.0,331383.0,31,Corporativo,Baja
+342056.0,409666.0,30,Turista nacional,Muy baja
+169410.0,265417.0,36,Grupo,Media
+206573.0,338970.0,40,Corporativo,Baja
+220098.0,327699.0,38,Turista nacional,Baja
+204638.0,314199.0,51,Turista internacional,Media
+185409.0,322425.0,40,Turista nacional,Baja
+267799.0,350237.0,41,Grupo,Media
+375893.0,405268.0,45,Corporativo,Baja
+211112.0,314836.0,38,Turista internacional,Media
+276633.0,418598.0,48,Turista internacional,Muy alta
+330062.0,372258.0,41,Corporativo,Alta
+171710.0,258066.0,41,Turista nacional,Baja
+155212.0,229629.0,45,Turista nacional,Media
+306548.0,393577.0,49,Turista internacional,Muy alta
+269718.0,323019.0,43,Turista nacional,Baja
+152240.0,207680.0,41,Grupo,Media
+242603.0,336329.0,65,Turista internacional,Muy alta
+285166.0,353622.0,43,Turista nacional,Alta
+182125.0,233491.0,37,Corporativo,Media
+165015.0,223660.0,42,Turista nacional,Baja
+199106.0,296603.0,39,Corporativo,Media
+200996.0,257983.0,44,Corporativo,Alta
+313493.0,338190.0,55,Turista nacional,Alta
+163471.0,282217.0,36,Corporativo,Baja
+311507.0,464477.0,40,Corporativo,Media
+255344.0,323957.0,55,Grupo,Alta
+378384.0,437394.0,42,Turista internacional,Baja
+276168.0,315151.0,36,Turista internacional,Baja
+226860.0,295587.0,52,Corporativo,Alta
+223578.0,388350.0,52,Turista nacional,Muy alta
+243751.0,354108.0,43,Turista nacional,Alta
+301136.0,395743.0,46,Turista nacional,Media
+258011.0,314895.0,48,Corporativo,Alta
